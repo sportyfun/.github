@@ -9,3 +9,26 @@ Make venues available around the world!
 ## Useful links
 
 [Discord](https://discord.gg/tzdfAxyUU4)
+
+## Available sports
+
+- Athletics
+- Badminton
+- Basketball
+- Cricket
+- Cycling
+- Esports
+- Football
+- Futsal
+- Golf
+- Gym
+- Handball
+- Hockey
+- Netball
+- Padle Tennis
+- Rugby
+- Squash
+- Swimming
+- Table Tennis
+- Tennis
+- Volleyball
