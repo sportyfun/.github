@@ -6,6 +6,6 @@ Sportyfun is the perfect solution for players looking for a better place to play
 
 Make venues available around the world!
 
-## Resources
+## Useful links
 
 [Discord](https://discord.gg/tzdfAxyUU4)
