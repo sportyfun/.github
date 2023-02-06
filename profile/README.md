@@ -37,10 +37,12 @@ All you have to do is to register on the platform and explore!
 
 You can see our docs here
 
-## 🌎Our mission
+## 🌎 Our mission
 
 Make venues available around the world!
+
 Overall, we want to make venues more accessible to all.
+
 Thanks to everyone who supported our journey! 🙏
 
 Happy to answer any questions, and please let us know your feedback :)
