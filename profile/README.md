@@ -8,7 +8,7 @@ All you have to do is to register on the platform and explore!
 
 1. Create an account
 2. Add your favorite venue on the map
-3. Browse other venues and share with friends
+3. Browse venues, post reviews, add to the favorites
 4. Host a game on the nearest site + invite friends
 
 ## 🚀 Available sports
