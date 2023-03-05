@@ -44,5 +44,5 @@ Thanks to everyone who supported our journey! 🙏
 
 Happy to answer any questions, and please let us know your feedback :)
 
-- 👉 [Website](https://sportyfun.carrd.co/) with available venues around the world.
+- 👉 [Website](https://sportyfun.net) with available venues around the world.
 - 👉 [Discord](https://discord.gg/tzdfAxyUU4) for feedback, questions, staying tuned for new updates, or just to hang out.
