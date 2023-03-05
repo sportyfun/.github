@@ -2,8 +2,6 @@
 
 Sportyfun is the perfect solution for players looking for a better place to play their favorite sports. You can easily search for places to play, reserve, check availability, invite friends to join, request specific equipment or facilities at your local gaming spot, ensuring that you always have a place to play worldwide.
 
-We will launch in March 2023.
-
 All you have to do is to register on the platform and explore!
 
 ## 🤖 How it works
@@ -11,6 +9,7 @@ All you have to do is to register on the platform and explore!
 1. Create an account
 2. Add your favorite venue on the map
 3. Browse other venues and share with friends
+4. Host a game on the nearest site + invite friends
 
 ## 🚀 Available sports
 
@@ -35,13 +34,11 @@ All you have to do is to register on the platform and explore!
 - Tennis
 - Volleyball
 
-You can see our docs here
-
 ## 🌎 Our mission
 
 Make venues available around the world!
 
-Overall, we want to make venues more accessible to all.
+Connect players together.
 
 Thanks to everyone who supported our journey! 🙏
 
